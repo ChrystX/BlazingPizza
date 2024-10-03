@@ -1,4 +1,5 @@
 ﻿using System.Net.NetworkInformation;
+using BlazingPizza.Model;
 
 namespace BlazingPizza.Data;
 
